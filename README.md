@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Andrej Pavliščak 👋
 
-<!--
-**Andreyy05/Andreyy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student & builder based in Prague, Czech Republic.  
+Passionate about modern web development, desktop utilities, clean UI, and solving real-world friction with software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I'm Working On
+-  **GitPulse** — A lightweight Electron & React desktop tray app to track GitHub commit streaks and streamline dev workflows.
+-  **SmartGate Parking** — Smart parking management system built from concept through sprint planning to deployment.
+-  **Bucket** — Interactive milestone & goal tracking web platform.
+
+---
+
+###  Tech Stack & Tools
+
+**Languages & Frameworks:**  
+`TypeScript` `JavaScript` `React` `Node.js` `Electron` `HTML5` `CSS3`
+
+**Dev Environment & Workflows:**  
+`Git` `GitHub Actions` `Cursor` `Docker` `macOS` `Windows Client/Server`
+
+---
+
+###  Highlights & Mindset
+-  **Bc Software Development** student @ Unicorn University.
+-  Hands-on builder: from leading student hackathon dev teams to rapid prototyping with AI-assisted workflows.
+---
+
+###  Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/pavliscakandrej/
+- **Email:** pavlishchak05@gmail.com
