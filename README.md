@@ -13,7 +13,7 @@ Focused on modern web apps, desktop utilities, and clean UI.
 ---
 
 ### 🛠️ Tech Stack
-`TypeScript` `JavaScript` `React` `Node.js` `Electron` `Docker` `Git`
+`TypeScript` `JavaScript` `React` `Node.js` `Rust` `Electron` `Docker` `Git`
 
 ---
 
