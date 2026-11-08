@@ -18,17 +18,8 @@ Focused on modern web apps, desktop utilities, and clean UI.
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/pavliscakandrej/) · [pavlishchak05@gmail.com](mailto:pavlishchak05@gmail.com)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Andreyy05&theme=transparent&hide_border=true)
 
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andreyy05&theme=radical)
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andreyy05&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Andreyy05&theme=transparent&hide_border=true" height="150" alt="Streak" />
-</p>
