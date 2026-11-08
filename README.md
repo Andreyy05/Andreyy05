@@ -6,9 +6,11 @@ Focused on modern web apps, desktop utilities, and clean UI.
 ---
 
 ### 🚀 Projects
-- **GitPulse** — Desktop tray app for tracking GitHub streaks & dev flow *(Electron, React)*
-- **SmartGate Parking** — End-to-end smart parking management system
-- **Bucket** — Interactive milestone & goal tracking platform
+- [**GitPulse**](https://github.com/Andreyy05/gitpulse) — Desktop tray app for tracking GitHub streaks *(Electron, React)*
+- [**SmartGate Parking**](odkaz) — End-to-end smart parking management system *(React, Node.js)*
+- [**Bucket**](odkaz) — Interactive milestone & goal tracking platform *(TypeScript, Web)*
+
+---
 
 ### 🛠️ Tech Stack
 `TypeScript` `JavaScript` `React` `Node.js` `Electron` `Docker` `Git`
@@ -17,9 +19,3 @@ Focused on modern web apps, desktop utilities, and clean UI.
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/pavliscakandrej/) · [pavlishchak05@gmail.com](mailto:pavlishchak05@gmail.com)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andreyy05&theme=transparent&hide_border=true)
-
-
-
-
