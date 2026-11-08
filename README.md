@@ -6,7 +6,7 @@ Focused on modern web apps, desktop utilities, and clean UI.
 ---
 
 ### 🚀 Projects
-- [**GitPulse**](https://github.com/Andreyy05/GitPulse_Rust) — Desktop tray app for tracking GitHub streaks *(Electron, React)*
+- [**GitPulse**](https://github.com/Andreyy05/GitPulse_Rust) — Desktop tray app for tracking GitHub streaks *(Rust, React)*
 - [**SmartGate Parking**](odkaz) — End-to-end smart parking management system *(React, Node.js)*
 - [**Bucket**](odkaz) — Interactive milestone & goal tracking platform *(TypeScript, Web)*
 
