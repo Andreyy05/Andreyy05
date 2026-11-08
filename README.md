@@ -23,4 +23,12 @@ Focused on modern web apps, desktop utilities, and clean UI.
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Andreyy05&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyy05&layout=compact&theme=radical)
+
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreyy05&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Andreyy05&theme=transparent&hide_border=true" height="150" alt="Streak" />
+</p>
