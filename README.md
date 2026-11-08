@@ -17,4 +17,4 @@ Focused on modern web apps, desktop utilities, and clean UI.
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/pavliscakandrej/) · [pavlishchak05@gmail.com](mailto:pavlishchak05@gmail.com)
-![Andrej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreyy05&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Andreyy05&theme=radical)
